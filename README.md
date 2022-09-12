@@ -1,4 +1,4 @@
-#[访问主页](https://www.luogu.com.cn/user/685826)
+# [访问主页](https://www.luogu.com.cn/user/685826)
 
 # 粉丝数超5曝真名 ：***
 
