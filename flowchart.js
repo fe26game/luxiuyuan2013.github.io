@@ -39,7 +39,9 @@
                                 'request' : { 'fill' : 'blue'},
                                 'invalid': {'fill' : '#444444'},
                                 'approved' : { 'fill' : '#58C4A3', 'font-size' : 12, 'yes-text' : 'APPROVED', 'no-text' : 'n/a' },
-                                'rejected' : { 'fill' : '#C45879', 'font-size' : 12, 'yes-text' : 'n/a', 'no-text' : 'REJECTED' }
+                                'rejected' : { 'fill' : '#C45879', 'font-size' : 12, 'yes-text' : 'n/a', 'no-text' : 'REJECTED' },
+                                'yorn' : {  'yes-text' : 'y', 'no-text' : 'n' },
+                                'sorf' : {  'yes-text' : '是', 'no-text' : '否' }
                               }
                             });
 </script>
