@@ -15,3 +15,5 @@
 # 粉丝数超16曝洛谷密码的前1/4  : \*\*
 
 # 粉丝数超36曝洛谷密码的前1/2  : \*\*\*\*
+
+# ![](https://www.google.com/s2/favicons?sz=64&domain=luogu.com.cn)
