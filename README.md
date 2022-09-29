@@ -1,4 +1,4 @@
-# [访问主页](https://www.luogu.com.cn/user/685826)
+# [访问主页![](https://www.google.com/s2/favicons?sz=64&domain=luogu.com.cn)](https://www.luogu.com.cn/user/685826)
 
 # 粉丝数超5曝真名 ：\*\*\*
 
@@ -15,5 +15,3 @@
 # 粉丝数超16曝洛谷密码的前1/4  : \*\*
 
 # 粉丝数超36曝洛谷密码的前1/2  : \*\*\*\*
-
-# ![](https://www.google.com/s2/favicons?sz=64&domain=luogu.com.cn)
